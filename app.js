@@ -1,5 +1,5 @@
 const manuals = [
-    { id: 1, name: "Estrada de Ferro Vitória a Minas e o Trem", image: "assets/images/01_trem.png", pdfs: ["assets/pdfs/01_aspersor.pdf"] },
+    { id: 1, name: "Estrada de Ferro Vitória a Minas e o Trem", image: "assets/images/01_trem.png", pdfs: ["assets/pdfs/01_trem.pdf"] },
     { id: 2, name: "Virador de Vagões", image: "assets/images/02_virador.png", pdfs: ["assets/pdfs/02_virador.pdf"] },
     { id: 3, name: "Moagem", image: "assets/images/03_moinho.png", pdfs: ["assets/pdfs/03_moinho.pdf"] },
     { id: 4, name: "Homogeneização", image: "assets/images/04_tanque.png", pdfs: ["assets/pdfs/04_tanque.pdf"] },
